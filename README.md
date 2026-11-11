@@ -1,5 +1,7 @@
 # L-Shaped Countertop — LibreCAD Practice Project
 
+![L-shaped countertop CAD drawing preview](images/countertop-preview.png)
+
 Beginner 2D CAD drafting exercise: an L-shaped kitchen countertop with illustrative sink and cooktop openings, dimensions, and a conceptual seam. Created as an independent learning project in preparation for a CAD-related manufacturing interview.
 
 **Not for fabrication.** The drawing is conceptual, not approved for manufacturing or CNC use.
